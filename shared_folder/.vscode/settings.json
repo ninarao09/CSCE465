@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "udp.h": "c",
+        "errno.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
